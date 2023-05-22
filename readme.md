@@ -2,9 +2,9 @@
 
 *Collaborateur* :
 
-* Enzo Carpentier
-* Kilian Moliere
-* Corentin Bonifacio
+* Valentino
+* Hakim
+* Billy
 
 ### Pré-requis :
 
